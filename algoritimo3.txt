@@ -1,0 +1,6 @@
+1. Ler lista 
+2. leia quantidade de elementos
+3. para cada elemento da lista some x = x+y
+4. Quantidade de itens da lista = z
+5. entao x/z
+6. escreva resultado 
