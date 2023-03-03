@@ -1,0 +1,6 @@
+1. ler lista
+2. escreva todos os itens 
+3. leia um por um
+4. faça x=x
+5. entao ache "x"
+6. resultado x
