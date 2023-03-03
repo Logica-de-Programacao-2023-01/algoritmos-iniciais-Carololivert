@@ -1,0 +1,4 @@
+1 leia 1
+leia 2
+entao 1+2
+faça 1+2=3
