@@ -1,0 +1,15 @@
+Algoritmo de calculado de fatorial: um algoritmo que calcula o fatorial de um número, ou seja, o produto de todos os números inteiros de 1 até aquele número.
+
+1. escreva (x>0) 
+2. ler o num (x) 
+3. enquanto (x<1) 
+4. nao tera resultado 
+5. enquanto (x>0)
+6. multiplica x pelo seu antessesor 
+7. ler resultado da multiplicaçao do x pelo antessesor = z
+8. multiplicar x*z ate o num 1
+9. resultado = x 
+
+
+
+
