@@ -1,0 +1,4 @@
+1. ler num 
+2. ler pot 
+3. faça num^pot
+4. escreva num^pot
