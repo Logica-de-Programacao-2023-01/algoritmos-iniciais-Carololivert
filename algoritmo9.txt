@@ -1,0 +1,5 @@
+1. ler capital-inicial
+2. ler taxa-juros
+3. ler tempo
+4. faça juros-compostos = capital-inicial * (1 - taxa de juros ^ tempo)
+5. resultado = juros compostos
