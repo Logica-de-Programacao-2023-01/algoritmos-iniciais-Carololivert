@@ -1,0 +1,5 @@
+1. leia base=x
+2. leia altura=y
+3. leia 2
+4. faça x*y/2
+4. resultado 
