@@ -1,0 +1,8 @@
+1. ler x 
+2. ler y 
+3. ler peso 
+x 4. ler peso y 
+5. faça x+y=z 
+6. faça peso x + peso y= f
+7. faça z/f =j
+8. resultado = j
